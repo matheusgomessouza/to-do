@@ -3,7 +3,7 @@
 Challenge proposal for Ignite course on React track / Proposta de desafio do curso Ignite na trilha de React
 
 ![](cover.jpg)
--------------------------------------------------------------------------------------------------------------
+
 
 🚀 **Como rodar o projeto / Running the project**
 
